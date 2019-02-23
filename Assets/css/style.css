@@ -1,0 +1,90 @@
+body {
+    background-image: url("../images/mirrored_squares.png")
+  }
+
+image {
+    height: 100px;
+    width: 100px;
+}
+  #flip {
+    padding: 20px;
+    font-family: 'Fugaz One', cursive;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border: solid 1px #c3c3c3;
+  }
+  
+  #panel {
+    padding: 20px;
+    display: none;
+    text-align: left;
+    background-color: aliceblue;
+    color: black;
+    border: solid 1px #c3c3c3;
+  }
+
+  .nmbrBx {
+    border: 1px solid grey;
+    background-color: whitesmoke;
+    height: 150px;
+    width: 100%;
+    border-radius: 4px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    margin: 10px 10px 20px 10px;
+    padding: 10px;
+  }
+
+  .scoreBx {
+    border: 1px solid grey;
+    background-color: whitesmoke;
+    height: 150px;
+    width: 100%;
+    border-radius: 4px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    margin: 10px;
+    padding: 10px;
+  }
+
+  .winLoss {
+    border: 1px solid grey;
+    background-color: whitesmoke;
+    height: 150px;
+    width: 100%;
+    border-radius: 4px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    margin: 10px 20px 10px 10px;
+    padding: 10px;
+  } 
+
+.crystals {
+    display: flex;
+    float: left;
+    margin: 10px;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+    width: 100px;
+}
+
+.crystals {
+    border: 1px solid grey;
+    background-color: whitesmoke;
+    height: 150px;
+    width: 150px;
+    border-radius: 4px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    transition: box-shadow 1s, transform 2s;
+}
+
+.crystals:hover {
+    box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.5);
+    transform: translate(5px,10px);
+    cursor: pointer;
+    transition: box-shadow 1s, transform 2s;
+}
+
+
+
+
+
