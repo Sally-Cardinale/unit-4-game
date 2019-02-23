@@ -18,7 +18,9 @@
                 <p>
                     Once you win (or lose) your wins and losses will show in the <b>Wins/Losses</b> box.
                 </p>
+                <br>
+                <b>Demo: </b>https://sally/cardinale.github.io/unit-4-game/
                 
-                <b>Demo:</b> https://sally-cardinale.github.io/unit-4-game/
+                
                 
 <img src="/Assets/images/CrystalGameScreenshot.png" width="850">
