@@ -18,3 +18,5 @@ Crystal Collector Game
                 <p>
                     Once you win (or lose) your wins and losses will show in the <b>Wins/Losses</b> box.
                 </p>
+                
+<img src="/Assets/images/CrystalGameScreenshot.png" width="850">
